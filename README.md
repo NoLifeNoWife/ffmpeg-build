@@ -10,7 +10,7 @@ To get screen recording to work you need to install FFmpeg to Geometry Dash
 - Right click Geometry Dash
 - Manage
 - Browse Local Files
-- all done!
+- all done!sda
 
 ## Why?
 FFmpeg uses a sinful license that makes it awkward to package for distribution
